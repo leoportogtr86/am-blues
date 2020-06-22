@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/am-blues/static/css/main.6db28dbe.chunk.css",
+    "main.js": "/am-blues/static/js/main.5acaba56.chunk.js",
+    "main.js.map": "/am-blues/static/js/main.5acaba56.chunk.js.map",
+    "runtime-main.js": "/am-blues/static/js/runtime-main.f99ad799.js",
+    "runtime-main.js.map": "/am-blues/static/js/runtime-main.f99ad799.js.map",
+    "static/js/2.dc5b70c2.chunk.js": "/am-blues/static/js/2.dc5b70c2.chunk.js",
+    "static/js/2.dc5b70c2.chunk.js.map": "/am-blues/static/js/2.dc5b70c2.chunk.js.map",
+    "index.html": "/am-blues/index.html",
+    "precache-manifest.bce49570f31c74175872e7028c0f9f70.js": "/am-blues/precache-manifest.bce49570f31c74175872e7028c0f9f70.js",
+    "service-worker.js": "/am-blues/service-worker.js",
+    "static/css/main.6db28dbe.chunk.css.map": "/am-blues/static/css/main.6db28dbe.chunk.css.map",
+    "static/js/2.dc5b70c2.chunk.js.LICENSE.txt": "/am-blues/static/js/2.dc5b70c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f99ad799.js",
+    "static/js/2.dc5b70c2.chunk.js",
+    "static/css/main.6db28dbe.chunk.css",
+    "static/js/main.5acaba56.chunk.js"
+  ]
+}
